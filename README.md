@@ -1,4 +1,4 @@
-<h2 align="left">Ola meu nome e Geovane Magnus Ryll<br> estou cursando  Analise e Desenvolvimento De Sistemas <br>e falo um pouco de ingles nivel intermerdiario</h2>
+<h2 align="left">Ola meu nome e Geovane Magnus Ryll<br> estou cursando  Analise e Desenvolvimento De Sistemas <br>e tenho ingles nivel intermerdiario</h2>
 
 ###
 
